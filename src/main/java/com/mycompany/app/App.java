@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-  private final String message = "Hello World NetBeans!";
+  private final String message = "Hello World NetBeans!!";
 
   public App() {
   }
